@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LuckyDraw>
+  <CfgLuckyDraw NumForSecKill="7" PrizeID="1070503" PrizeName="猫" PrizeType="5" Probability="0.2333" RewardPoints="24"/>
+  <CfgLuckyDraw NumForSecKill="7" PrizeID="1070507" PrizeName="狗" PrizeType="5" Probability="0.2333" RewardPoints="24"/>
+  <CfgLuckyDraw NumForSecKill="7" PrizeID="1070508" PrizeName="兔" PrizeType="5" Probability="0.2333" RewardPoints="24"/>
+  <CfgLuckyDraw NumForSecKill="7" PrizeID="1070509" PrizeName="鸡" PrizeType="5" Probability="0.2333" RewardPoints="24"/>
+  <CfgLuckyDraw NumForSecKill="7" PrizeID="1070510" PrizeName="熊" PrizeType="5" Probability="0.2333" RewardPoints="24"/>
+  <CfgLuckyDraw NumForSecKill="7" PrizeID="1070511" PrizeName="蛙" PrizeType="5" Probability="0.2333" RewardPoints="24"/>
+  <CfgLuckyDraw NumForSecKill="7" PrizeID="1070512" PrizeName="兔子" PrizeType="5" Probability="0.2333" RewardPoints="24"/>
+  <CfgLuckyDraw NumForSecKill="7" PrizeID="1070513" PrizeName="恐龙" PrizeType="5" Probability="0.2333" RewardPoints="24"/>
+  <CfgLuckyDraw NumForSecKill="7" PrizeID="1070514" PrizeName="佩奇" PrizeType="5" Probability="0.2333" RewardPoints="24"/>
+  <CfgLuckyDraw NumForSecKill="7" PrizeID="1070150" PrizeName="金币200" PrizeType="1" Probability="0.2333" RewardPoints="60"/>
+  <CfgLuckyDraw NumForSecKill="7" PrizeID="1070151" PrizeName="金币500" PrizeType="1" Probability="0.2333" RewardPoints="60"/>
+  <CfgLuckyDraw NumForSecKill="7" PrizeID="1071901" PrizeName="周卡" PrizeType="19" Probability="0.2333" RewardPoints="60"/>
+  <CfgLuckyDraw NumForSecKill="7" PrizeID="1071902" PrizeName="月卡" PrizeType="19" Probability="0.2333" RewardPoints="60"/>
+  <CfgLuckyDraw NumForSecKill="7" PrizeID="1071910" PrizeName="京东卡10元" PrizeType="19" Probability="0.2333" RewardPoints="60"/>
+  <CfgLuckyDraw NumForSecKill="7" PrizeID="1071905" PrizeName="京东卡30元" PrizeType="19" Probability="0.2333" RewardPoints="60"/>
+  <CfgLuckyDraw NumForSecKill="7" PrizeID="1071906" PrizeName="京东卡50元" PrizeType="19" Probability="0.2333" RewardPoints="60"/>
+  <CfgLuckyDraw NumForSecKill="7" PrizeID="1071907" PrizeName="京东卡100元" PrizeType="19" Probability="0.2333" RewardPoints="60"/>
+  <CfgLuckyDraw NumForSecKill="7" PrizeID="1070558" PrizeName="白色的东西" PrizeType="5" Probability="0.2333" RewardPoints="300"/>
+  <CfgLuckyDraw NumForSecKill="7" PrizeID="1070559" PrizeName="娃娃" PrizeType="5" Probability="0.2333" RewardPoints="300"/>
+  <CfgLuckyDraw NumForSecKill="7" PrizeID="1070560" PrizeName="空调" PrizeType="5" Probability="0.2333" RewardPoints="300"/>
+  <CfgLuckyDraw NumForSecKill="7" PrizeID="1070561" PrizeName="米" PrizeType="5" Probability="0.2333" RewardPoints="300"/>
+  <CfgLuckyDraw NumForSecKill="7" PrizeID="1070562" PrizeName="电饭煲" PrizeType="5" Probability="0.2333" RewardPoints="300"/>
+  <CfgLuckyDraw NumForSecKill="7" PrizeID="1070563" PrizeName="垃圾华为" PrizeType="5" Probability="0.2333" RewardPoints="300"/>
+  <CfgLuckyDraw NumForSecKill="7" PrizeID="1070564" PrizeName="iPhonex" PrizeType="5" Probability="0.2333" RewardPoints="300"/>
+</LuckyDraw>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metalib name="LuckyDraw" tagsetversios="1" version="2">
+  <struct name="CFGLuckyDraw" version="1">
+    <entry cname="奖品ID" desc="奖品ID" name="PrizeID" type="uint32"/>
+    <entry cname="奖品类型" desc="奖品类型" name="PrizeType" type="uint32"/>
+    <entry cname="奖品名称" desc="奖品名称" name="PrizeName" size="256" type="string"/>
+    <entry cname="概率" desc="概率" name="Probability" type="float"/>
+    <entry cname="必中次数" desc="必中次数" name="NumForSecKill" type="uint32"/>
+    <entry cname="积分奖励" desc="积分奖励" name="RewardPoints" type="uint32"/>
+  </struct>
+</metalib>
